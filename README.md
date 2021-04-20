@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Mateus Leal, also very known as Drew👻
+
+Full-stack Web Developer since 2019 as JavaScript/TypeScript and PHP programmer. Based in São Paulo, Brazil, currently working for L0gik.🧠
+
+### Contact 💬
+
+Feel free to send me a message in [Telegram](https://t.me/drew_d)
+
+
+### Langs Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus228leal)](https://github.com/anuraghazra/github-readme-stats)
 <!--
