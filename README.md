@@ -1,6 +1,6 @@
 ### Hi there, I'm Mateus Leal, also very known as Drew👻
 
-Full-stack Web Developer since 2019 as JavaScript/TypeScript & PHP programmer. Based in São Paulo, Brazil, currently working for L0gik.🧠
+Full-stack Web Developer since 2019 as JavaScript/TypeScript & PHP programmer. Based in São Paulo, Brazil, currently working for Pixter.🧠
 
 ### Contact 💬
 
