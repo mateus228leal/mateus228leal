@@ -18,7 +18,7 @@ I believe in keeping things simple, building with purpose, and avoiding unnecess
 
 ### Independent Ventures
 
-- 🦍 **Silverback Troupe** — Fitness and tech entrepreneurship. [Explore Silverback Troupe](linktr.ee/silverbacktroupe)
+- 🦍 **Silverback Troupe** — Fitness and tech entrepreneurship. [Explore Silverback Troupe](https://linktr.ee/silverbacktroupe)
 
 ### Tech Stack & Interests
 
