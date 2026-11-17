@@ -16,6 +16,10 @@ My current focus is developing independent digital products, services, and tools
 
 I believe in keeping things simple, building with purpose, and avoiding unnecessary complexity.
 
+### Independent Ventures
+
+- 🦍 **Silverback Troupe** — Fitness and tech entrepreneurship. [Explore Silverback Troupe](linktr.ee/silverbacktroupe)
+
 ### Tech Stack & Interests
 
 - **Core:** JavaScript · TypeScript · Node.js
@@ -32,9 +36,9 @@ Always exploring better ways to build, ship, and grow independent products.
 
 ### Let's Connect
 
-- Telegram: [@drew_d](https://t.me/drew_d)
+- Telegram: [@drew_d](https://t.me/silverbackdrew)
 - GitHub: [@mateus228leal](https://github.com/mateus228leal)
-
+  
 ---
 
 ### GitHub Activity
