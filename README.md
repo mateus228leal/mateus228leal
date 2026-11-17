@@ -1,26 +1,44 @@
-### Hi there, I'm Mateus Leal, also very known as Drew👻
+### Hey, I'm Mateus "Drew" Leal 🦍
 
-Full-stack Web Developer since 2019 as JavaScript/TypeScript & PHP programmer. Based in Cachoeira Paulista, Brazil.🧠
+**Indie Hacker · Backend Developer · Fitness Tech**
 
-### Contact 💬
+I'm an independent builder focused on creating technology-driven businesses and products for the fitness industry.
 
-Feel free to send me a message in [Telegram](https://t.me/drew_d)
+With a background in web development since 2019, I have worked across freelance projects, startups, and outsourced development for companies such as **Porto Seguro, Amazon, and Localiza**.
 
+Today, my focus is building practical, efficient, and scalable solutions using **Node.js, TypeScript, and JavaScript**.
 
-### Langs Status
+### What I'm building
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus228leal)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**mateus228leal/mateus228leal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in the intersection of technology, entrepreneurship, and fitness.
 
-Here are some ideas to get you started:
+My current focus is developing independent digital products, services, and tools that solve real problems in the fitness market.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-⚡ Fun fact: teste...
--->
+I believe in keeping things simple, building with purpose, and avoiding unnecessary complexity.
+
+### Tech Stack & Interests
+
+- **Core:** JavaScript · TypeScript · Node.js
+- **Backend:** Express · REST APIs · Webhooks
+- **Integrations:** Payment gateways · Third-party APIs · Automation
+- **Data:** SQL & NoSQL databases
+- **Engineering interests:** Software Architecture · Scalability · System Design
+
+### Currently
+
+I'm back in an active building and learning phase, refreshing my knowledge of the modern Node.js ecosystem and deepening my skills in TypeScript, backend engineering, and software architecture.
+
+Always exploring better ways to build, ship, and grow independent products.
+
+### Let's Connect
+
+- Telegram: [@drew_d](https://t.me/drew_d)
+- GitHub: [@mateus228leal](https://github.com/mateus228leal)
+
+---
+
+### GitHub Activity
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus228leal&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateus228leal&show_icons=true&theme=transparent&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
